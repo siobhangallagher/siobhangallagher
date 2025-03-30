@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Siobhan Gallagher 👋
 
-<!--
-**siobhangallagher/siobhangallagher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Career Pivot
 
-Here are some ideas to get you started:
+Transitioning from 35+ years in administration, event, and project management to the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Creative Mindset
+
+I'm exploring the creative aspects of coding — working with colour, fonts, and layouts to build in a digital space. 👩‍💻
+
+As an avid creator, I have an enjoyment for working in analogue with fountian pens and ink, as well as fibre arts including knitting & spinning. 
+
+🐱 Beyond the Screen
+
+When I'm not coding, you’ll find me with a cat on my lap, knitting needles in hand, and a pot of tea within arm’s reach. 🍵
