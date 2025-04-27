@@ -8,7 +8,7 @@ Transitioning from 35+ years in administration, event, and project management to
 
 I'm exploring the creative aspects of coding — working with colour, fonts, and layouts to build in a digital space. 👩‍💻
 
-As an avid creator, I have an enjoyment for working in analogue with fountian pens and ink, as well as fibre arts including knitting & spinning. 
+As an avid creator, I have an enjoyment for working in analogue with fountain pens and ink, as well as fibre arts including knitting & spinning. 
 
 🐱 Beyond the Screen
 
